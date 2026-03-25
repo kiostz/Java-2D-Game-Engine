@@ -1,7 +1,7 @@
 # 2D Java RPG Game Engine
 
 > A robust, high-performance 2D game engine built from scratch using Java (Swing/AWT).
-<img width="767" height="577" alt="titile" src="https://github.com/user-attachments/assets/43368f29-63de-4eb1-b844-9f0a1be6e972" />
+<img width="767" height="392" alt="titile" src="https://github.com/user-attachments/assets/cf9fea8b-b65d-4779-adae-bb27a463e312" />
 
 ## 📖 Overview
 
@@ -50,12 +50,12 @@ This project serves as a showcase of Object-Oriented Programming (OOP), algorith
 
 | Exploration | Dialogue System |
 |:-----------:|:-------------:|
-| <img width="369" height="232" alt="explore" src="https://github.com/user-attachments/assets/524a48af-1104-4fc3-b7b7-b88e3d227fb6" /> | <img width="369" height="232" alt="Screenshot 2026-03-25 131813" src="https://github.com/user-attachments/assets/c72bd577-a928-4514-beae-077670ec18c0" /> |
+|<img width="346" height="346" alt="sorting" src="https://github.com/user-attachments/assets/c5a33fd9-e0d9-4174-a589-e38369d760c2" />|<img width="232" height="232" alt="dialogue" src="https://github.com/user-attachments/assets/fd41be9a-5974-4ccd-8968-f432efd495ef" />|
 | *Y-Sorting and Tile Rendering* | *Floating Chat Bubbles with Fade* |
 
 | Debug Mode | Menus |
 |:----------:|:-----:|
-| <img width="768" height="576" alt="Screenshot 2026-03-25 131230" src="https://github.com/user-attachments/assets/d5be845b-118b-4cfa-bd46-ffc019d1bfa5" /> | <img width="768" height="576" alt="Screenshot 2026-03-25 131139" src="https://github.com/user-attachments/assets/6e07ca28-20bf-40a3-a432-642cce24a644" /> |
+|<img width="768" height="576" alt="debug" src="https://github.com/user-attachments/assets/8575fd13-e1a3-41ef-8cf8-b64d1eeda855" />|<img width="336" height="336" alt="explore" src="https://github.com/user-attachments/assets/c6e5ee72-b2b7-4775-b01b-fa5181a889ad" />|
 | *Hitbox and Interaction Areas* | *Custom UI Rendering* |
 
 ## 🚀 Getting Started
