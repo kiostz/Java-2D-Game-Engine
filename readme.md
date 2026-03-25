@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**My2DGame** is a custom-built game engine designed to demonstrate core concepts of game development, computer graphics, and software architecture. Unlike projects using pre-made engines like Unity or Godot, this project implements the fundamental systems—rendering, physics, collision, and state management—purely in Java.
+**2D Java RPG Game Engine** is a custom-built game engine designed to demonstrate core concepts of game development, computer graphics, and software architecture. Unlike projects using pre-made engines like Unity or Godot, this project implements the fundamental systems—rendering, physics, collision, and state management—purely in Java.
 
 This project serves as a showcase of Object-Oriented Programming (OOP), algorithmic problem solving (Y-Sorting, AABB Collision), and system design patterns.
 
