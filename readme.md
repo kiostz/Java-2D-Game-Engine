@@ -2,7 +2,8 @@
 
 > A robust, high-performance 2D game engine built from scratch using Java (Swing/AWT).
 
-![Title Screen](https://github.com/user-attachments/assets/3a5e8f8f-3e3c-4e8b-9b0e-4b4d7a3a7e0b)
+![Title Screen]<img width="1270" height="842" alt="Screenshot 2026-03-25 131139" src="https://github.com/user-attachments/assets/6e07ca28-20bf-40a3-a432-642cce24a644" />
+
 
 ## 📖 Overview
 
