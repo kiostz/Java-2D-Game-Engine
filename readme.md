@@ -50,13 +50,12 @@ This project serves as a showcase of Object-Oriented Programming (OOP), algorith
 
 | Exploration | Dialogue System |
 |:-----------:|:-------------:|
-| <img width="479" height="336" alt="explore" src="https://github.com/user-attachments/assets/524a48af-1104-4fc3-b7b7-b88e3d227fb6" /> | <img width="369" height="232" alt="Screenshot 2026-03-25 131813" src="https://github.com/user-attachments/assets/c72bd577-a928-4514-beae-077670ec18c0" /> |
+| <img width="369" height="232" alt="explore" src="https://github.com/user-attachments/assets/524a48af-1104-4fc3-b7b7-b88e3d227fb6" /> | <img width="369" height="232" alt="Screenshot 2026-03-25 131813" src="https://github.com/user-attachments/assets/c72bd577-a928-4514-beae-077670ec18c0" /> |
 | *Y-Sorting and Tile Rendering* | *Floating Chat Bubbles with Fade* |
 
 | Debug Mode | Menus |
 |:----------:|:-----:|
-| <img width="768" height="576" alt="Screenshot 2026-03-25 131230" src="https://github.com/user-attachments/assets/d5be845b-118b-4cfa-bd46-ffc019d1bfa5" />
-| <img width="1270" height="842" alt="Screenshot 2026-03-25 131139" src="https://github.com/user-attachments/assets/6e07ca28-20bf-40a3-a432-642cce24a644" /> |
+| <img width="768" height="576" alt="Screenshot 2026-03-25 131230" src="https://github.com/user-attachments/assets/d5be845b-118b-4cfa-bd46-ffc019d1bfa5" /> | <img width="768" height="576" alt="Screenshot 2026-03-25 131139" src="https://github.com/user-attachments/assets/6e07ca28-20bf-40a3-a432-642cce24a644" /> |
 | *Hitbox and Interaction Areas* | *Custom UI Rendering* |
 
 ## 🚀 Getting Started
