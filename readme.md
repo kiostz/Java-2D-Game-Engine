@@ -50,13 +50,13 @@ This project serves as a showcase of Object-Oriented Programming (OOP), algorith
 
 | Exploration | Dialogue System |
 |:-----------:|:-------------:|
-|<img width="346" height="346" alt="sorting" src="https://github.com/user-attachments/assets/c5a33fd9-e0d9-4174-a589-e38369d760c2" />|<img width="232" height="232" alt="dialogue" src="https://github.com/user-attachments/assets/fd41be9a-5974-4ccd-8968-f432efd495ef" />|
+|<img width="765" height="573" alt="sort" src="https://github.com/user-attachments/assets/77078aac-9117-4077-8a98-49578c196980" />|<img width="765" height="571" alt="dialogue" src="https://github.com/user-attachments/assets/31540e87-6865-4835-ae79-9d69dede184a" />|
 | *Y-Sorting and Tile Rendering* | *Floating Chat Bubbles with Fade* |
 
-| Debug Mode | Menus |
+| Debug Mode | Collisions |
 |:----------:|:-----:|
-|<img width="768" height="576" alt="debug" src="https://github.com/user-attachments/assets/8575fd13-e1a3-41ef-8cf8-b64d1eeda855" />|<img width="336" height="336" alt="explore" src="https://github.com/user-attachments/assets/c6e5ee72-b2b7-4775-b01b-fa5181a889ad" />|
-| *Hitbox and Interaction Areas* | *Custom UI Rendering* |
+|<img width="768" height="574" alt="debug" src="https://github.com/user-attachments/assets/a948a87f-389d-4adc-9417-fa77a45da0f8" />|<img width="764" height="576" alt="explore" src="https://github.com/user-attachments/assets/20966da6-a3b8-4d98-88d6-6af79185d374" />|
+| *Hitbox and Interaction Areas* | *NPC Collisions* |
 
 ## 🚀 Getting Started
 
