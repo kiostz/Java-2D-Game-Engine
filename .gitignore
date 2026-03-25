@@ -1,0 +1,15 @@
+# Compiled class files
+out/
+
+# Log files
+*.log
+game_log.txt
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+
+# User-specific files
+.DS_Store
+Thumbs.db

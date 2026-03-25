@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Key",
+    "imagePath": "/objects/key.png",
+    "collision": false
+  },
+  {
+    "name": "Door",
+    "imagePath": "/objects/door.png",
+    "collision": true
+  },
+  {
+    "name": "Chest",
+    "imagePath": "/objects/chest.png",
+    "collision": false
+  },
+  {
+    "name": "Coin",
+    "imagePath": "/objects/coin.png",
+    "collision": false
+  }
+]
