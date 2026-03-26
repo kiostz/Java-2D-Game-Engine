@@ -70,7 +70,8 @@ This project serves as a showcase of Object-Oriented Programming (OOP), algorith
     git clone https://github.com/kiostz/Java-2D-Game-Engine.git
     ```
 2.  **Open the project** in your preferred IDE (e.g., IntelliJ IDEA).
-3.  **Run the `Main.java`** file located in `src/main/`.
+3.  Mark the `res` folder as Sources Root. Right click `res` > Mark Directory as > Sources Root
+5.  **Run the `Main.java`** file located in `src/main/`.
 
 ### Controls
 *   **Movement**: W, A, S, D
